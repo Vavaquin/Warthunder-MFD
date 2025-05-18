@@ -1,3 +1,6 @@
 Warthunder MFD Web is an application designed to be used on a second monitor through a browser, Electron, or a browser extension. It transcribes data from War Thunder's localhost:8111 into an interactive multi-function display.
 
-You can access it through this link: https://wtmfd.pages.dev/ or https://vavaquin.github.io/Warthunder-MFD/
+
+Important: the best option is to download the files and run the index.html or chrome extension or use the electron application.
+
+You can access it through this link: https://wtmfd.pages.dev/ , https://vavaquin.github.io/Warthunder-MFD/ or  https://chromewebstore.google.com/detail/mmcbebibncdkpadjakcmkblhnjlimbck?utm_source=item-share-cb
