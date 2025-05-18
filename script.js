@@ -401,7 +401,7 @@ function renderMap (objects, typeToLetter) {
         const screenX = centerX + pos.x;
         const screenY = centerY + pos.y;
 
-        const dangerTypes = ["airfield", "bombing_point"]; 
+        const dangerTypes = ["airfield", "bombing_point", "capture_zone"]; 
         if (dangerTypes.includes(obj.type)) {
             const dangerRadius = 0.08 * zoomScale;
             let circleColor = obj.color;
