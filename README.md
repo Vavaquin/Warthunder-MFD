@@ -3,4 +3,4 @@ Warthunder MFD Web is an application designed to be used on a second monitor thr
 
 Important: the best option is to download the files and run the index.html or chrome extension or use the electron application.
 
-You can access it through this link: https://wtmfd.pages.dev/ , https://vavaquin.github.io/Warthunder-MFD/ or  https://chromewebstore.google.com/detail/mmcbebibncdkpadjakcmkblhnjlimbck?utm_source=item-share-cb
+You can use the Chrome extension: https://chromewebstore.google.com/detail/mmcbebibncdkpadjakcmkblhnjlimbck?utm_source=item-share-cb
